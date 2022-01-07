@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sy1SzI5zJyhs3k2z9S7GRHV3GctdUFpJcfD2qjsk4bt5KawwjND3VmIDjuoL+JUD4dPWnwCxE0t36YhKgH0NGw==",
+  "dgSpecHash": "48F+xjRcV4SEnHuw0n5p8jGTGAj/xvk0ahU7xq8ZPLVBUoc2mzZcDtfAuRCmlebMhLnGGiu3ODfp9ZVNR1Oe5w==",
   "success": true,
-  "projectFilePath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+  "projectFilePath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

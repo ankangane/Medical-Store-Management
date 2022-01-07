@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj": {}
+    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj": {
+    "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+        "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
         "projectName": "MedicalStoreManagementSystem",
-        "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+        "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\obj\\",
+        "outputPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,8 @@
               "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.8, )"
             },

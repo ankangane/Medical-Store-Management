@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -133,7 +133,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "5.0.8"
         },
         "compile": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/netstandard2.1/_._": {}
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -5983,11 +5983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+      "projectUniqueName": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
       "projectName": "MedicalStoreManagementSystem",
-      "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
+      "projectPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\obj\\",
+      "outputPath": "D:\\Cap Training\\iDigital\\FSD training\\Case Study\\MedicalStore\\Medical-Store-Management\\MedicalStoreManagementSystem\\MedicalStoreManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
